@@ -1,3 +1,7 @@
+#   Nome Brian Schu Motta
+#   Atualizado 03/02/2025
+
+
 import tkinter
 from tkinter import *
 from tkinter import ttk
